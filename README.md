@@ -16,16 +16,16 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 
 ---
 
-### 🛠 Tech Stack (Superpowers Unlocked So Far)
+
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
-
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white)
 
 ---
 
@@ -33,29 +33,31 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 
 ![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyaannachhatre&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ananyaannachhatre&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaannachhatre&layout=compact&theme=merko)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyaannachhatre&theme=merko)
-
----
-
-### 🚀 Why I Build
-
-I don’t just want to *use* technology — I want to **reshape it**.  
-To build things that feel a little bit like magic,  
-the kind that makes people say *“Wait... how is this even possible?”*
-
-Still learning. Still experimenting.  
-But that’s the best part of the journey.
 
 ---
 
 ### 🌟 Stuff I Made When No One Was Watching
 
 - [🚢 Optimal Ship Routing](https://github.com/ananyaannachhatre/optimal_ship_routing) – Shortest path + weather-aware routing algorithm for the Indian Ocean.  
-- [📚 Dyslexia Empowerment](https://github.com/ananyaannachhatre/dyslexia_empowerment) – Tools and exercises to assist individuals with dyslexia.  
-- [🎨 Neural Style Transfer](https://github.com/ananyaannachhatre/neural_style_transfer) – AI project blending images with artistic styles.  
-- [🍲 Ayurvedic Principle-Based Food Grading & Recommendations](https://github.com/ananyaannachhatre/AyurvedicPrincipleBasedFoodGradingAndRecommendations) – Suggests healthier recipes based on dosha type.
+  ![Preview](https://raw.githubusercontent.com/ananyaannachhatre/optimal_ship_routing/main/demo.gif)  
 
-“What’s next? Who knows—but it’ll probably involve code and caffeine.”
+- [📚 Dyslexia Empowerment](https://github.com/ananyaannachhatre/dyslexia_empowerment) – Tools and exercises to assist individuals with dyslexia.  
+  ![Preview](https://raw.githubusercontent.com/ananyaannachhatre/dyslexia_empowerment/main/demo.gif)  
+
+- [🎨 Neural Style Transfer](https://github.com/ananyaannachhatre/neural_style_transfer) – AI project blending images with artistic styles.  
+  ![Preview](https://raw.githubusercontent.com/ananyaannachhatre/neural_style_transfer/main/demo.gif)  
+
+- [🍲 Ayurvedic Principle-Based Food Grading & Recommendations](https://github.com/ananyaannachhatre/AyurvedicPrincipleBasedFoodGradingAndRecommendations) – Suggests healthier recipes based on dosha type.  
+  ![Preview](https://raw.githubusercontent.com/ananyaannachhatre/AyurvedicPrincipleBasedFoodGradingAndRecommendations/main/demo.gif)  
+
+<details>
+  <summary>💡 Fun Fact / Easter Egg</summary>
+  I sometimes “debug” by staring at the screen until the code feels guilty.
+</details>
+
+*More experiments and discoveries in progress… keep an eye out!*  
 
 ---
 
@@ -66,4 +68,4 @@ But that’s the best part of the journey.
 
 ---
 
-> *If my code doesn’t run, neither do I.*
+> *If my code doesn’t run, at least I learned something new.*
