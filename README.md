@@ -31,9 +31,9 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 
 ### 📊 GitHub Shenanigans
 
-![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyaannachhatre&show_icons=true&theme=gruvbox_light)
-![GitHub Streak](https://streak-stats.demolab.com?user=ananyaannachhatre&theme=gruvbox_light)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyaannachhatre&theme=react-dark)
+![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyaannachhatre&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ananyaannachhatre&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyaannachhatre&theme=merko)
 
 ---
 
