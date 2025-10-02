@@ -2,7 +2,7 @@
 
 > *Part-time coder, full-time curious human in beta mode.*
 
-I’m a **cse student** still **learning, experimenting, and occasionally breaking the matrix**.  
+I’m a **CSE student** still **learning, experimenting, and occasionally breaking the matrix**.  
 Currently leveling up in **AI, software engineering & all things futuristic**, and *secretly plotting how to bend reality with code.*
 
 ---
@@ -53,7 +53,7 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
   ![Preview](https://raw.githubusercontent.com/ananyaannachhatre/AyurvedicPrincipleBasedFoodGradingAndRecommendations/main/demo.gif)  
 
 <details>
-  <summary>💡 Fun Fact </summary>
+  <summary>💡 Fun Fact (click below to find out :) )</summary>
   I sometimes “debug” by staring at the screen until the code feels guilty.
 </details>
 
