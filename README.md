@@ -53,7 +53,7 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
   ![Preview](https://raw.githubusercontent.com/ananyaannachhatre/AyurvedicPrincipleBasedFoodGradingAndRecommendations/main/demo.gif)  
 
 <details>
-  <summary>💡 Fun Fact / Easter Egg</summary>
+  <summary>💡 Fun Fact </summary>
   I sometimes “debug” by staring at the screen until the code feels guilty.
 </details>
 
