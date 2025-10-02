@@ -2,7 +2,7 @@
 
 > *Part-time coder, full-time curious human in beta mode.*
 
-I’m a **computer engineering student** still **learning, experimenting, and occasionally breaking the matrix**.  
+I’m a **cse student** still **learning, experimenting, and occasionally breaking the matrix**.  
 Currently leveling up in **AI, software engineering & all things futuristic**, and *secretly plotting how to bend reality with code.*
 
 ---
@@ -23,8 +23,9 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
+
 
 ---
 
