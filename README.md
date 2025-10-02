@@ -31,8 +31,8 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 
 ### 📊 GitHub Shenanigans
 
-![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyaannachhatre&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=ananyaannachhatre&theme=radical)
+![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyaannachhatre&show_icons=true&theme=gruvbox_light)
+![GitHub Streak](https://streak-stats.demolab.com?user=ananyaannachhatre&theme=gruvbox_light)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyaannachhatre&theme=react-dark)
 
 ---
@@ -45,6 +45,17 @@ the kind that makes people say *“Wait... how is this even possible?”*
 
 Still learning. Still experimenting.  
 But that’s the best part of the journey.
+
+---
+
+### 🌟 Stuff I Made When No One Was Watching
+
+- [🚢 Optimal Ship Routing](https://github.com/ananyaannachhatre/optimal_ship_routing) – Shortest path + weather-aware routing algorithm for the Indian Ocean.  
+- [📚 Dyslexia Empowerment](https://github.com/ananyaannachhatre/dyslexia_empowerment) – Tools and exercises to assist individuals with dyslexia.  
+- [🎨 Neural Style Transfer](https://github.com/ananyaannachhatre/neural_style_transfer) – AI project blending images with artistic styles.  
+- [🍲 Ayurvedic Principle-Based Food Grading & Recommendations](https://github.com/ananyaannachhatre/AyurvedicPrincipleBasedFoodGradingAndRecommendations) – Suggests healthier recipes based on dosha type.
+
+“What’s next? Who knows—but it’ll probably involve code and caffeine.”
 
 ---
 
