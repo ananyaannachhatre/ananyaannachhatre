@@ -49,8 +49,8 @@ But that’s the best part of the journey.
 
 ### 📫 Find Me Somewhere on the Internet
 
-- 💼 LinkedIn: *(add your link here)*
-- ✉️ Email: *(drop one here if you dare)*
+- 💼 LinkedIn: www.linkedin.com/in/ananya-annachhatre
+- ✉️ Email: ananya.annachhatre@gmail.com
 
 ---
 
