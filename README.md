@@ -19,21 +19,27 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 
 ### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=white)
-![DL](https://img.shields.io/badge/Deep%20Learning-8A2BE2?logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2F9E8F?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-4C6EF5?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7950F2?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2F9E8F?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4C6EF5?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7950F2?logo=git&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-2F9E8F?logo=apachehadoop&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-34b792?logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-4C6EF5?logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-7950F2?logo=scikitlearn&logoColor=white)
+![DL](https://img.shields.io/badge/Deep%20Learning-2F9E8F?logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4C6EF5?logo=python&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-7950F2?logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2F9E8F?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-4C6EF5?logo=kubernetes&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-7950F2?logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-2F9E8F?logo=jupyter&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware%20Workstation-4C6EF5?logo=vmware&logoColor=white)
+
+
 
 ---
 
