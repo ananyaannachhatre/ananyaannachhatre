@@ -31,7 +31,7 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 ![DL](https://img.shields.io/badge/Deep%20Learning-8A2BE2?logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-34b792?logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
