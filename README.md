@@ -26,6 +26,14 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=white)
+![DL](https://img.shields.io/badge/Deep%20Learning-8A2BE2?logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ---
 
