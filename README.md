@@ -22,6 +22,7 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 ![Python](https://img.shields.io/badge/Python-2F9E8F?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-4C6EF5?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-7950F2?logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F9E8F?logo=typescriot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2F9E8F?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4C6EF5?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-7950F2?logo=git&logoColor=white)
