@@ -1,13 +1,13 @@
-# 👋 Hey there, I'm Ananya!
+# Hey there, I'm Ananya!
 
 > *Part-time coder, full-time curious human in beta mode.*
 
-I’m a **CSE student** still **learning, experimenting, and occasionally breaking the matrix**.  
+I’m a **Full-Stack Developer** still **learning, experimenting, and occasionally breaking the matrix**.  
 Currently leveling up in **AI, software engineering & all things futuristic**, and *secretly plotting how to bend reality with code.*
 
 ---
 
-### 🧠 Currently Upgrading My Brain In:
+### Currently Upgrading My Brain In:
 
 - 🤖 **Machine Learning**
 - 🧠 **Artificial Intelligence (AI)**
@@ -17,7 +17,7 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 ---
 
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-2F9E8F?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-4C6EF5?logo=c&logoColor=white)
@@ -44,7 +44,7 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 
 ---
 
-### 📊 GitHub Shenanigans
+### GitHub Shenanigans
 
 ![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyaannachhatre&show_icons=true&theme=tokyonight&rank_icon=github)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ananyaannachhatre&theme=tokyonight)
@@ -53,18 +53,18 @@ Currently leveling up in **AI, software engineering & all things futuristic**, a
 
 ---
 
-### 🌟 Stuff I Made When No One Was Watching
+### Stuff I Made When No One Was Watching
 
-- [🚢 Optimal Ship Routing](https://github.com/ananyaannachhatre/optimal_ship_routing) – Shortest path + weather-aware routing algorithm for the Indian Ocean.  
+- [Optimal Ship Routing](https://github.com/ananyaannachhatre/optimal_ship_routing) – Shortest path + weather-aware routing algorithm for the Indian Ocean.  
   ![Preview](https://raw.githubusercontent.com/ananyaannachhatre/optimal_ship_routing/main/demo.gif)  
 
-- [📚 Dyslexia Empowerment](https://github.com/ananyaannachhatre/dyslexia_empowerment) – Tools and exercises to assist individuals with dyslexia.  
+- [Dyslexia Empowerment](https://github.com/ananyaannachhatre/dyslexia_empowerment) – Tools and exercises to assist individuals with dyslexia.  
   ![Preview](https://raw.githubusercontent.com/ananyaannachhatre/dyslexia_empowerment/main/demo.gif)  
 
-- [🎨 Neural Style Transfer](https://github.com/ananyaannachhatre/neural_style_transfer) – AI project blending images with artistic styles.  
+- [Neural Style Transfer](https://github.com/ananyaannachhatre/neural_style_transfer) – AI project blending images with artistic styles.  
   ![Preview](https://raw.githubusercontent.com/ananyaannachhatre/neural_style_transfer/main/demo.gif)  
 
-- [🍲 Ayurvedic Principle-Based Food Grading & Recommendations](https://github.com/ananyaannachhatre/AyurvedicPrincipleBasedFoodGradingAndRecommendations) – Suggests healthier recipes based on dosha type.  
+- [Ayurvedic Principle-Based Food Grading & Recommendations](https://github.com/ananyaannachhatre/AyurvedicPrincipleBasedFoodGradingAndRecommendations) – Suggests healthier recipes based on dosha type.  
   ![Preview](https://raw.githubusercontent.com/ananyaannachhatre/AyurvedicPrincipleBasedFoodGradingAndRecommendations/main/demo.gif)  
 
 <details>
